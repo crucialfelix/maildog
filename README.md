@@ -70,3 +70,5 @@ Please check the [AWS documentation](https://docs.aws.amazon.com/ses/latest/Deve
 ## 📮 Give it a try?
 
 You can find the installation guide [here](docs/installation.md). The setup might take 10-20 minutes.
+
+Trigger run
